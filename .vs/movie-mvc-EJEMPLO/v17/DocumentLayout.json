@@ -3,40 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\views\\usuario\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\views\\usuario\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\models\\plataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\models\\plataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\data\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\data\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\models\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\models\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\views\\pelicula\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\views\\pelicula\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\views\\pelicula\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\views\\pelicula\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|c:\\users\\lauty\\documents\\cursocs4\\unidad6\\ejemplomovie\\movie-mvc-ejemplo\\movie-mvc\\movie-mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A10D11C-491E-4726-B459-83C9E164372B}|movie-mvc\\movie-mvc.csproj|solutionrelative:movie-mvc\\movie-mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,121 +66,181 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\appsettings.json",
-              "RelativeDocumentMoniker": "movie-mvc\\appsettings.json",
-              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\appsettings.json",
-              "RelativeToolTip": "movie-mvc\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-25T19:00:25.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Program.cs",
-              "RelativeDocumentMoniker": "movie-mvc\\Program.cs",
-              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Program.cs",
-              "RelativeToolTip": "movie-mvc\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T18:39:07.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MovieDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Data\\MovieDbContext.cs",
-              "RelativeDocumentMoniker": "movie-mvc\\Data\\MovieDbContext.cs",
-              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Data\\MovieDbContext.cs",
-              "RelativeToolTip": "movie-mvc\\Data\\MovieDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T18:34:20.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "movie-mvc\\Models\\Usuario.cs",
               "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Models\\Usuario.cs",
               "RelativeToolTip": "movie-mvc\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T15:51:55.006Z",
+              "WhenOpened": "2026-02-01T18:28:56.009Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Plataforma.cs",
-              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Models\\Plataforma.cs",
-              "RelativeDocumentMoniker": "movie-mvc\\Models\\Plataforma.cs",
-              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Models\\Plataforma.cs",
-              "RelativeToolTip": "movie-mvc\\Models\\Plataforma.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T15:50:15.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Favorito.cs",
-              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Models\\Favorito.cs",
-              "RelativeDocumentMoniker": "movie-mvc\\Models\\Favorito.cs",
-              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Models\\Favorito.cs",
-              "RelativeToolTip": "movie-mvc\\Models\\Favorito.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T15:50:04.136Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Models\\Review.cs",
-              "RelativeDocumentMoniker": "movie-mvc\\Models\\Review.cs",
-              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Models\\Review.cs",
-              "RelativeToolTip": "movie-mvc\\Models\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T15:49:54.734Z",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Views\\Usuario\\Login.cshtml",
+              "RelativeDocumentMoniker": "movie-mvc\\Views\\Usuario\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Views\\Usuario\\Login.cshtml",
+              "RelativeToolTip": "movie-mvc\\Views\\Usuario\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T18:12:18.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Views\\Usuario\\Registro.cshtml",
+              "RelativeDocumentMoniker": "movie-mvc\\Views\\Usuario\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Views\\Usuario\\Registro.cshtml",
+              "RelativeToolTip": "movie-mvc\\Views\\Usuario\\Registro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T18:12:00.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "movie-mvc\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "movie-mvc\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA6wFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T18:08:19.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Program.cs",
+              "RelativeDocumentMoniker": "movie-mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Program.cs",
+              "RelativeToolTip": "movie-mvc\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:52:51.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "movie-mvc\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "movie-mvc\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T21:02:19.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "movie-mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "movie-mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAGEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T20:09:39.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "movie-mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "movie-mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAxwEoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:06:57.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "movie-mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "movie-mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T20:01:15.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Pelicula.cs",
               "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Models\\Pelicula.cs",
               "RelativeDocumentMoniker": "movie-mvc\\Models\\Pelicula.cs",
               "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Models\\Pelicula.cs",
               "RelativeToolTip": "movie-mvc\\Models\\Pelicula.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wAwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T15:49:42.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T19:59:06.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Genero.cs",
-              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Models\\Genero.cs",
-              "RelativeDocumentMoniker": "movie-mvc\\Models\\Genero.cs",
-              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Models\\Genero.cs",
-              "RelativeToolTip": "movie-mvc\\Models\\Genero.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Views\\Pelicula\\Details.cshtml",
+              "RelativeDocumentMoniker": "movie-mvc\\Views\\Pelicula\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Views\\Pelicula\\Details.cshtml",
+              "RelativeToolTip": "movie-mvc\\Views\\Pelicula\\Details.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAWwDQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T19:58:58.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "movie-mvc\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Models\\Review.cs",
+              "RelativeToolTip": "movie-mvc\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T15:49:30.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T19:58:51.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "movie-mvc.csproj",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\movie-mvc.csproj",
+              "RelativeDocumentMoniker": "movie-mvc\\movie-mvc.csproj",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\movie-mvc.csproj",
+              "RelativeToolTip": "movie-mvc\\movie-mvc.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T19:57:05.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Views\\Pelicula\\Index.cshtml",
+              "RelativeDocumentMoniker": "movie-mvc\\Views\\Pelicula\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\Views\\Pelicula\\Index.cshtml",
+              "RelativeToolTip": "movie-mvc\\Views\\Pelicula\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-28T18:25:52.783Z"
             }
           ]
         }

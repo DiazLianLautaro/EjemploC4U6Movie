@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = movie_mvc
+build_property.RootNamespace = movie_mvc
+build_property.ProjectDir = C:\Users\Lauty\Documents\CursoCS4\Unidad6\ejemplomovie\movie-mvc-EJEMPLO\movie-mvc\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Lauty\Documents\CursoCS4\Unidad6\ejemplomovie\movie-mvc-EJEMPLO\movie-mvc
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Genero/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Genero/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Genero/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Genero/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Genero/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Pelicula/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsaWN1bGFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Pelicula/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsaWN1bGFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Pelicula/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsaWN1bGFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Pelicula/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsaWN1bGFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Pelicula/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsaWN1bGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Plataforma/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdGFmb3JtYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Plataforma/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdGFmb3JtYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Plataforma/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdGFmb3JtYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Plataforma/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdGFmb3JtYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Plataforma/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhdGFmb3JtYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lauty/Documents/CursoCS4/Unidad6/ejemplomovie/movie-mvc-EJEMPLO/movie-mvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9gw6txla61
