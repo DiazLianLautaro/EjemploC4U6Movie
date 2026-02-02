@@ -15,7 +15,8 @@
           "Microsoft.EntityFrameworkCore.Tools": "9.0.11",
           "Microsoft.VisualStudio.Web.CodeGeneration": "9.0.11",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "9.0.11",
-          "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore": "9.0.11"
+          "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore": "9.0.11",
+          "SixLabors.ImageSharp": "3.1.12"
         },
         "runtime": {
           "movie-mvc.dll": {}
@@ -2025,6 +2026,14 @@
           }
         }
       },
+      "SixLabors.ImageSharp/3.1.12": {
+        "runtime": {
+          "lib/net6.0/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.1.12.0"
+          }
+        }
+      },
       "System.ClientModel/1.0.0": {
         "dependencies": {
           "System.Memory.Data": "1.0.2",
@@ -3175,6 +3184,13 @@
       "sha512": "sha512-fJ6rFYANDnohFsdpaY79FvrJxI6murmoOxXz6nZlf819F48+IBKMnAIg3oIBRtZq5y498ObMtKnro5IitvizUg==",
       "path": "nuget.versioning/6.12.1",
       "hashPath": "nuget.versioning.6.12.1.nupkg.sha512"
+    },
+    "SixLabors.ImageSharp/3.1.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iAg6zifihXEFS/t7fiHhZBGAdCp3FavsF4i2ZIDp0JfeYeDVzvmlbY1CNhhIKimaIzrzSi5M/NBFcWvZT2rB/A==",
+      "path": "sixlabors.imagesharp/3.1.12",
+      "hashPath": "sixlabors.imagesharp.3.1.12.nupkg.sha512"
     },
     "System.ClientModel/1.0.0": {
       "type": "package",

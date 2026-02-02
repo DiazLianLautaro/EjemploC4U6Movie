@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uKQB1w/G4Lw=",
+  "dgSpecHash": "CmGXN36Aths=",
   "success": true,
   "projectFilePath": "C:\\Users\\Lauty\\Documents\\CursoCS4\\Unidad6\\ejemplomovie\\movie-mvc-EJEMPLO\\movie-mvc\\movie-mvc.csproj",
   "expectedPackageFiles": [
@@ -132,6 +132,7 @@
     "C:\\Users\\Lauty\\.nuget\\packages\\nuget.projectmodel\\6.12.1\\nuget.projectmodel.6.12.1.nupkg.sha512",
     "C:\\Users\\Lauty\\.nuget\\packages\\nuget.protocol\\6.12.1\\nuget.protocol.6.12.1.nupkg.sha512",
     "C:\\Users\\Lauty\\.nuget\\packages\\nuget.versioning\\6.12.1\\nuget.versioning.6.12.1.nupkg.sha512",
+    "C:\\Users\\Lauty\\.nuget\\packages\\sixlabors.imagesharp\\3.1.12\\sixlabors.imagesharp.3.1.12.nupkg.sha512",
     "C:\\Users\\Lauty\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
     "C:\\Users\\Lauty\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
     "C:\\Users\\Lauty\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
